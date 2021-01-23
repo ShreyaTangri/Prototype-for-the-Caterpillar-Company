@@ -1,0 +1,69 @@
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c > #alignmentBox {
+  position: relative;
+  max-width: 1366px;
+  max-height: 768px;
+  width: 100%;
+  height: 100%;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c #s-Image_1 {
+  position: absolute;
+  width: 768px;
+  height: 820px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c #s-Image_1 > img, #s-4105d619-1279-4c03-be3c-3a3680ea9c2c #s-Image_1 > svg {
+  height: 820px;
+  width: 768px;
+  box-shadow: none;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c #shapewrapper-s-Line_1 marker {
+  fill: #FFFF00;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c #shapewrapper-s-Line_1 {
+  position: absolute;
+  width: 97px;
+  height: 33px;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  transform: rotate(180deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c #s-Line_1 {
+  width: 97px;
+  height: 26px;
+  padding-top: 7px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 7px;
+  stroke: #FFFF00;
+  box-shadow: none;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-4105d619-1279-4c03-be3c-3a3680ea9c2c > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
